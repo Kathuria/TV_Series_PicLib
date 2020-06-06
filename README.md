@@ -1,12 +1,12 @@
 # TV_Series_PicLib
 
-<img src="./assets/Icon.png" alt="TV Series Icon" align="center">
+<img src="./assets/Icon.png" alt="TV Series Icon" align="center"/>
 
 Kotlin Project to understand and develop something useful. So I tried with Picture Library of Tv Series under campign **#30DaysOfKotlin**
 
-<img src="./assets/CodeLab.png" alt="Pageing Lib Flow" align="center">
+<img src="./assets/CodeLab.PNG" alt="Paging Lib Flow" align="center"/>
 
-## Codelab helps to understand below mentioned topics
+### Codelab helps to understand below mentioned topics
 
 - [**Paging Library:**][1] The Paging Library makes it easier for you to load data on demand within your app's RecyclerView.
 
@@ -30,8 +30,8 @@ Kotlin Project to understand and develop something useful. So I tried with Pictu
 
 - [Paging library overview Android by Google][8]
 - [Paging Library CodeLab][9]
-- [Android Track Learning from CS50 e.g. Glide][10]
-- [PagingWithNetworkSample by Yigit Boyar][11]
+- [Android Track Learning from CS50][10]
+- [PagingWithNetworkSample][11]
 
 [8]: https://developer.android.com/topic/libraries/architecture/paging/
 [9]: https://codelabs.developers.google.com/codelabs/android-paging/index.html?index=..%2F..%2Findex#0
@@ -39,5 +39,4 @@ Kotlin Project to understand and develop something useful. So I tried with Pictu
 [11]: https://github.com/googlesamples/android-architecture-components/tree/master/PagingWithNetworkSample
 
 #### App Glimpse
-
-<img src="./assets/PicLib.gif" width="300" height="550" alt="App Glimpse Gif" align="center">
+<img src="./assets/PicLib.gif" width="300" height="550" alt="App Glimpse Gif" align="center"/>
