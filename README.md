@@ -2,7 +2,7 @@
 
 <img src="./assets/Icon.png" alt="TV Series Icon" align="center"/>
 
-Kotlin Project to understand and develop something useful. So I tried with Picture Library of Tv Series under campign **#30DaysOfKotlin**
+Kotlin Project to understand and develop something useful. So I tried with Picture Library of Tv Series under campign **#30DaysOfKotlin**. This project is inpired from [erikjhordan-rey/Movies-PagingLibrary-Arch-Components](https://github.com/erikjhordan-rey/Movies-PagingLibrary-Arch-Components)
 
 <img src="./assets/CodeLab.PNG" alt="Paging Lib Flow" align="center"/>
 
@@ -40,3 +40,31 @@ Kotlin Project to understand and develop something useful. So I tried with Pictu
 
 #### App Glimpse
 <img src="./assets/PicLib.gif" width="300" height="550" alt="App Glimpse Gif" align="center"/>
+
+Developed By
+------------
+
+* Erik Jhordan Rey  - <erikjhordan.rey@gmail.com>
+
+Modified By
+------------
+
+* Avi Kathuria  - <avikathuria21@gmail.com>
+
+License
+-------
+
+    Copyright 2018 Erik Jhordan Rey
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+
